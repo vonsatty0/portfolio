@@ -2,7 +2,7 @@
 
 ## Certificates
 - [Google Cybersecurity professional](https://coursera.org/share/dac679dbf964d0b84b1e640617aaf81c) PASSED 05.12.2024 (DD:MM:YY)
-- AWS Certified Cloud Practitioner PLANNED/ALREADY LEARNING 02-03.2027 (MM:YY)
+- AWS Certified Cloud Practitioner PLANNED/ALREADY LEARNING 01-02.2027 (MM:YY)
 
 ## Homelab (on-prem proxmox node)
 - Nextcloud (docker stack)

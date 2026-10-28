@@ -2,7 +2,11 @@
 
 ## Certificates
 - [Google Cybersecurity professional](https://coursera.org/share/dac679dbf964d0b84b1e640617aaf81c) PASSED 05.12.2024 (DD:MM:YY)
+- ISC2 CC; PLANNED 01-30.12.2026 (DD:MM:YY)
 - AWS Certified Cloud Practitioner PLANNED/ALREADY LEARNING 01-02.2027 (MM:YY)
+
+## Courses
+- [KodeKloud DevOps Pro: Linux, Docker, Kubernetes, CI/CD & IaC Specialization](https://www.coursera.org/specializations/devops-linux-docker-kubernetes-ci-cd-iac#courses) IN PROGRESS
 
 ## Homelab (on-prem proxmox node)
 - Nextcloud (docker stack)
@@ -12,7 +16,7 @@
 - Ubuntu VM with LinuxGSM; for quick deployment and hosting of game servers
 - And many more, that I don't even remembered spending whole nights on...
 ## Cloud (AWS)
-- [Podinfo project](https://github.com/vonsatty0/aws-podinfo-project) (AWS, Terraform, VPC, IAM, S3 state, Terraform, Amazon EKS, Helm, Podinfo, ECR, Load Balancer, Ingress, monitoring, GitHub Actions, AWS OIDC, CI/CD,  )
+- [Podinfo project](https://github.com/vonsatty0/aws-podinfo-project) (AWS, Terraform, VPC, IAM, S3 state, Terraform, Amazon EKS, Helm, Podinfo, ECR, Load Balancer, Ingress, monitoring, GitHub Actions, AWS OIDC, CI/CD,  ) IN PROGRESS
 
 ## Work (company's VPS)
 - Zammad helpdesk (docker stack)

@@ -7,6 +7,7 @@
 
 ## Courses
 - [KodeKloud DevOps Pro: Linux, Docker, Kubernetes, CI/CD & IaC Specialization](https://www.coursera.org/specializations/devops-linux-docker-kubernetes-ci-cd-iac#courses) IN PROGRESS
+- [KodeKloud AWS Cloud Practitioner (CLF-C02)](https://www.coursera.org/learn/aws-cloud-practitioner-clf-c02#modules) IN PROGRESS
 
 ## Homelab (on-prem proxmox node)
 - Nextcloud (docker stack)
@@ -14,6 +15,7 @@
 - Windows 11 RDP VM; for remote workstation access from personal tablet.
 - Obsidian Self-hosted LiveSync; CouchDB sync for obsidian behind cloudflare tunnel
 - Ubuntu VM with LinuxGSM; for quick deployment and hosting of game servers
+- Debian VM with GitLab; for vibe coded app i do for fun (docker)
 - And many more, that I don't even remembered spending whole nights on...
 ## Cloud (AWS)
 - [Podinfo project](https://github.com/vonsatty0/aws-podinfo-project) (AWS, Terraform, VPC, IAM, S3 state, Terraform, Amazon EKS, Helm, Podinfo, ECR, Load Balancer, Ingress, monitoring, GitHub Actions, AWS OIDC, CI/CD,  ) IN PROGRESS

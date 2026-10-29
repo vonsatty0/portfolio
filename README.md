@@ -10,12 +10,12 @@
 - [KodeKloud AWS Cloud Practitioner (CLF-C02)](https://www.coursera.org/learn/aws-cloud-practitioner-clf-c02#modules) IN PROGRESS
 
 ## Homelab (on-prem proxmox node)
-- Nextcloud (docker stack)
-- Seedbox and private media stream; transmission-webui + jellyfin + storage shared with Nextcloud (docker stack)
-- Windows 11 RDP VM; for remote workstation access from personal tablet.
-- Obsidian Self-hosted LiveSync; CouchDB sync for obsidian behind cloudflare tunnel
-- Ubuntu VM with LinuxGSM; for quick deployment and hosting of game servers
-- Debian VM with GitLab; for vibe coded app i do for fun (docker)
+- **Nextcloud** (docker stack)
+- Seedbox and private media stream; **transmission-webui + jellyfin** + storage shared with Nextcloud (docker stack)
+- Windows 11 **Remote Desktop VM**; for remote workstation access from personal tablet.
+- Obsidian Self-hosted LiveSync; **CouchDB** sync for obsidian behind cloudflare tunnel
+- Ubuntu VM with **LinuxGSM**; for quick deployment and hosting of game servers
+- Second Proxmox node on old laptop that run **Greenbone OpenVas Community Edition** (docker)
 - And many more, that I don't even remembered spending whole nights on...
 ## Cloud (AWS)
 - [Podinfo project](https://github.com/vonsatty0/aws-podinfo-project) (AWS, Terraform, VPC, IAM, S3 state, Terraform, Amazon EKS, Helm, Podinfo, ECR, Load Balancer, Ingress, monitoring, GitHub Actions, AWS OIDC, CI/CD,  ) IN PROGRESS
@@ -30,4 +30,5 @@
 
 ## Networking
 - 2x mikrotik hex rb750gr3 + TP-link AP; multi VLAN, balance-alb, wireguard secured home setup
-- Multiple basic configurations for clients, mostly in education.
+- Multiple basic configurations for clients, mostly in education. (Lot's of APs and Switches)
+- Deployed few "AI classroom" rack devices from Polish "KPO programme" 

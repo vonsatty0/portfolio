@@ -6,7 +6,7 @@
 - AWS Certified Cloud Practitioner PLANNED/ALREADY LEARNING 01-02.2027 (MM:YY)
 
 ## Courses
-- [KodeKloud DevOps Pro: Linux, Docker, Kubernetes, CI/CD & IaC Specialization]([https://www.coursera.org/specializations/devops-linux-docker-kubernetes-ci-cd-iac#courses](https://coursera.org/share/a6db3c295e5fbdcec96ebfa30b84beb6) DONE 02.11.2026 (DD:MM:YY)
+- [KodeKloud DevOps Pro: Linux, Docker, Kubernetes, CI/CD & IaC Specialization](https://coursera.org/share/a6db3c295e5fbdcec96ebfa30b84beb6) DONE 02.11.2026 (DD:MM:YY)
 - [KodeKloud AWS Cloud Practitioner (CLF-C02)](https://www.coursera.org/learn/aws-cloud-practitioner-clf-c02#modules) IN PROGRESS
 - [EDUCBA Linux Bash Scripting & Shell Programming Specialization](https://www.coursera.org/specializations/linux-bash-scripting-shell-programming#courses) PLANNED
 - [Red Hat Managing Cloud-native Applications with Kubernetes](https://www.coursera.org/learn/managing-cloud-native-applications-with-kubernetes#modules) PLANNED

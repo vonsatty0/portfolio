@@ -8,7 +8,8 @@
 ## Courses
 - [KodeKloud DevOps Pro: Linux, Docker, Kubernetes, CI/CD & IaC Specialization](https://www.coursera.org/specializations/devops-linux-docker-kubernetes-ci-cd-iac#courses) IN PROGRESS; 80% DONE
 - [KodeKloud AWS Cloud Practitioner (CLF-C02)](https://www.coursera.org/learn/aws-cloud-practitioner-clf-c02#modules) IN PROGRESS
-
+- [EDUCBA Linux Bash Scripting & Shell Programming Specialization](https://www.coursera.org/specializations/linux-bash-scripting-shell-programming#courses) PLANNED
+- [Red Hat Managing Cloud-native Applications with Kubernetes](https://www.coursera.org/learn/managing-cloud-native-applications-with-kubernetes#modules) PLANNED
 ## Homelab (on-prem proxmox node)
 - **Nextcloud** (docker stack)
 - Seedbox and private media stream; **transmission-webui + jellyfin** + storage shared with Nextcloud (docker stack)

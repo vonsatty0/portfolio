@@ -23,8 +23,8 @@
 ## Cloud (AWS)
 - [Podinfo project](https://github.com/vonsatty0/aws-podinfo-project) (AWS, Terraform, VPC, IAM, S3 state, Terraform, Amazon EKS, Helm, Podinfo, ECR, Load Balancer, Ingress, monitoring, GitHub Actions, AWS OIDC, CI/CD,  ) IN PROGRESS
 ---
-## Work (company's VPS [full deployment, configuaration and administration done only by me])
-- Zammad helpdesk (docker stack)
+## Work (company's VPS [full deployment, configuration and administration done only by me])
+- Zammad ticket system (docker stack)
 - N8n
 - [N8n custom notifications for Zammad](https://github.com/vonsatty0/N8n-Zammad-tickets-custom-mobile-notifications)
 ---

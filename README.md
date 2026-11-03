@@ -4,13 +4,13 @@
 - [Google Cybersecurity professional](https://coursera.org/share/dac679dbf964d0b84b1e640617aaf81c) DONE 05.12.2024 (DD:MM:YY)
 - ISC2 CC; PLANNED 01-30.12.2026 (DD:MM:YY)
 - AWS Certified Cloud Practitioner PLANNED/ALREADY LEARNING 01-02.2027 (MM:YY)
----
+
 ## Courses
 - [KodeKloud DevOps Pro: Linux, Docker, Kubernetes, CI/CD & IaC Specialization](https://coursera.org/share/a6db3c295e5fbdcec96ebfa30b84beb6) DONE 02.11.2026 (DD:MM:YY)
 - [IBM Hands-on Introduction to Linux Commands and Shell Scripting](https://coursera.org/share/767f77b34bd2ba6907c7c6dd865ca0d8) DONE 03.11.2026 (DD:MM:YY)
 - [KodeKloud AWS Cloud Practitioner (CLF-C02)](https://www.coursera.org/learn/aws-cloud-practitioner-clf-c02#modules) IN PROGRESS
 - [Red Hat Managing Cloud-native Applications with Kubernetes](https://www.coursera.org/learn/managing-cloud-native-applications-with-kubernetes#modules) PLANNED
----
+
 ## Homelab (on-prem proxmox node)
 - **Nextcloud** (docker stack)
 - Seedbox and private media stream; **transmission-webui + jellyfin** + storage shared with Nextcloud (docker stack)
@@ -19,22 +19,22 @@
 - Ubuntu VM with **LinuxGSM**; for quick deployment and hosting of game servers
 - Second Proxmox node on old laptop that run **Greenbone OpenVas Community Edition** (docker)
 - And many more, that I don't even remembered spending whole nights on...
----
+
 ## Cloud (AWS)
 - [Podinfo project](https://github.com/vonsatty0/aws-podinfo-project) (AWS, Terraform, VPC, IAM, S3 state, Terraform, Amazon EKS, Helm, Podinfo, ECR, Load Balancer, Ingress, monitoring, GitHub Actions, AWS OIDC, CI/CD,  ) IN PROGRESS
----
+
 ## Work (company's VPS [full deployment, configuration and administration done only by me])
 - Zammad ticket system (docker stack)
 - N8n
 - [N8n custom notifications for Zammad](https://github.com/vonsatty0/N8n-Zammad-tickets-custom-mobile-notifications)
----
+
 ## Vibe-coded apps
 - [Muaytronome](https://github.com/vonsatty0/Muaytronome)
----
+
 ## Networking
 - 2x mikrotik hex rb750gr3 + TP-link AP; multi VLAN, balance-alb, wireguard secured home setup
 - Multiple basic configurations for clients, mostly in education. (Lot's of APs and Switches)
 - Deployed few "AI classroom" rack devices from Polish "KPO programme" 
----
+
 ## OS
 Ubuntu, Debian, Arch, Gentoo, Bedrock Linux, Rocky Linux, Void Linux

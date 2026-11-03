@@ -7,7 +7,7 @@
 ---
 ## Courses
 - [KodeKloud DevOps Pro: Linux, Docker, Kubernetes, CI/CD & IaC Specialization](https://coursera.org/share/a6db3c295e5fbdcec96ebfa30b84beb6) DONE 02.11.2026 (DD:MM:YY)
-- [IBM Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting) IN PROGRESS; 80% DONE
+- [IBM Hands-on Introduction to Linux Commands and Shell Scripting](https://coursera.org/share/767f77b34bd2ba6907c7c6dd865ca0d8) DONE 03.11.2026 (DD:MM:YY)
 - [KodeKloud AWS Cloud Practitioner (CLF-C02)](https://www.coursera.org/learn/aws-cloud-practitioner-clf-c02#modules) IN PROGRESS
 - [Red Hat Managing Cloud-native Applications with Kubernetes](https://www.coursera.org/learn/managing-cloud-native-applications-with-kubernetes#modules) PLANNED
 ---
